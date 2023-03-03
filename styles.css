@@ -4,5 +4,5 @@
 .holder {
 	display: grid;
 	grid-template-columns: repeat(2, auto);
-	width: 200px;
+	grid-template-rows: 100px 100px;
 }
